@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+My controversial opinion is water has a taste to it.
 
 5. Add, commit, and push your changes:
   - git add README.md
